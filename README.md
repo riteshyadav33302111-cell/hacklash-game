@@ -2,7 +2,7 @@
 # 🎮 Connect 4 Game
 
 A simple and fun **Connect 4 Game** built using **HTML, CSS, and JavaScript**.  
-This is a two-player browser game where players take turns to connect 4 discs in a row to win.
+This is a two-player browser game where players take turns to connect 4 discs in a row to win..
 
 ---
 
